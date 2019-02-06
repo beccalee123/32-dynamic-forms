@@ -25,3 +25,4 @@ Paired with Brent Woodward, Hannah Ingham, and Heather Cherewaty
 - `store/players-reducers.js` creates the players reducers
 
 #### UML
+![uml](uml.JPG)
